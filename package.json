@@ -1,0 +1,25 @@
+{
+  "name": "fp-arch-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camvaz/fp-arch-class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camvaz/fp-arch-class/issues"
+  },
+  "homepage": "https://github.com/camvaz/fp-arch-class#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "immutable-ext": "^1.1.5",
+    "lodash": "^4.17.15"
+  }
+}

@@ -31,7 +31,7 @@ const All = x => ({
 }) 
 All.empty = () => All(true)
 
-const Intersection = () => ({
+const Intersection = (x) => ({
   x,
   concat: other => Intersection(_.intersection(x,other.x))
 })
